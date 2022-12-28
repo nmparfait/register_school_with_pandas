@@ -1,0 +1,21 @@
+numero, course_name
+0,programming logic
+1,Java for Web
+2,C# for Web
+3,Ruby on Rails
+4,Python Courses
+5,PHP with MySql
+6,.NET for web
+7,New integrations with Java
+8,TDD with Java
+9,Clean code with C#
+10,Java Certification Prep
+11,Basic hardware
+12,Persistence with .NET
+13,Developing games
+14,Data analysis
+15,basic statistics
+16,Internet of Things
+17,Functional programming
+18,Best practices in Java
+19,Object Orientation with Java
