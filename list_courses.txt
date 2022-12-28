@@ -1,4 +1,3 @@
-numero, course_name
 0,programming logic
 1,Java for Web
 2,C# for Web
